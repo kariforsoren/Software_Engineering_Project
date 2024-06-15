@@ -1,0 +1,39 @@
+#user-btn {
+    color: beige;
+
+}
+
+#user-btn:hover {
+    color: rgba(245, 245, 220, 0.718);
+}
+
+#darkmode-btn {
+    margin-right: 10px;
+    color: beige;
+}
+
+#darkmode-btn:hover {
+    color: rgba(245, 245, 220, 0.718);
+}
+
+.dropdown-menu {
+    position: absolute;
+    right: 7px;
+}
+
+.dropdown-item {
+    display: block;
+    background-color: rgb(76, 77, 76);
+    color: beige;
+    border: none;
+    border-radius: 8px;
+    margin-top: 7px;
+    width: 120px;
+    height: 45px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 17px;
+}
+
+.dropdown-item:hover {
+    background-color: darkslategray;
+  }
