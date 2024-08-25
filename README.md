@@ -1,4 +1,4 @@
-# Young Explorer university Software Engineering project
+# Young Explorer University Software Engineering project
 
 ## Description
 This project is part of a project in the course TDT4140 - Software Engineering at NTNU. The project lasted for eight weeks, and we used agile methods throughout. We set up sprints in accordanse with Scrum wich lasted between 1-2 weeks, and the TA was the product owner while we had the role of both Scrum master and developement team. The team consisted of 7 students from different data and communications engineering programmes. If you would like more information on the backround of the project, please contact me.
